@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Oswald:wght@300;400&display=swap');
+
+main
+{
+    text-align: center;
+}
+
+h1
+{
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+body
+{
+    font-size: x-large;
+}
